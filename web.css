@@ -1,0 +1,53 @@
+.html {
+  background-color: #e9ecef;
+}
+.cont {
+  margin-top: 20px;
+}
+
+.nav-menu {
+  justify-content: flex-end;
+}
+
+.button {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.text-alg {
+  font-size: medium;
+  text-align: center;
+  color: rebeccapurple;
+}
+.text-alg-div {
+  margin-top: auto;
+  margin-left: 45%;
+}
+
+.hakkımız {
+  text-align: center;
+  font-size: x-large;
+  margin: 20px;
+  padding: 0px;
+}
+
+.between {
+  margin: right 5px;
+}
+
+.nav-div-position {
+  margin-left: 21%;
+}
+.card {
+  margin-left: 8.2%;
+  margin-right: 8.2%;
+}
+
+.section-cards div {
+  margin: 5px;
+}
+
+.navbar-brand {
+  margin-left: 15px;
+}
